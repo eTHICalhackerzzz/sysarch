@@ -14,7 +14,3 @@ Route::get('/select-college', [CollegeController::class, 'select'])->name('colle
 Route::resource('departments', DepartmentController::class);
 
 
-// yabag //
-//kodwie
-//ppowep
-//kodwieu
