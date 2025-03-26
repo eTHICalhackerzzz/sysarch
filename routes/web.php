@@ -15,3 +15,4 @@ Route::resource('departments', DepartmentController::class);
 \\kugmo
 //okweiosdow
 //oqkwei1
+///okwoeow
