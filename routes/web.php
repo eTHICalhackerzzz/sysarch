@@ -16,3 +16,4 @@ Route::resource('departments', DepartmentController::class);
 //okweiosdow
 //oqkwei1
 ///okwoeow
+//ldpweo
