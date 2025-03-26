@@ -5,7 +5,7 @@ use App\Http\Controllers\DepartmentController;
 use App\Http\Controllers\CollegeController;
 
 Route::get('/', function () {
-    return redirect('/colleges');
+    return redirect('/colleges');//asd
 });
 
 Route::resource('colleges', CollegeController::class);
