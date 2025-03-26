@@ -4,6 +4,7 @@ use Illuminate\Foundation\Application;
 use Illuminate\Foundation\Configuration\Exceptions;
 use Illuminate\Foundation\Configuration\Middleware;
 //23222
+//67094
 
 return Application::configure(basePath: dirname(__DIR__))
     ->withRouting(
